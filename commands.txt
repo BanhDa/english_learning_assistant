@@ -1,0 +1,22 @@
+start - Bắt đầu và chọn trình độ
+help - Hướng dẫn sử dụng
+plan - Giáo án tuần này
+lesson - Bài học ngữ pháp của tuần
+nextweek - Sang tuần học kế tiếp
+words - Nhận từ mới
+review - Ôn từ đến hạn
+exercise - Làm bài tập
+practice - Luyện hội thoại tiếng Anh
+ask - Hỏi về ngữ pháp, từ vựng
+stop - Dừng hoạt động hiện tại
+reminders - Xem, bật, tắt lời nhắc
+remind - Đổi giờ nhắc học
+pause - Tạm dừng mọi lời nhắc
+resume - Bật lại lời nhắc
+stats - Xem tiến độ học
+level - Đặt trình độ A1 đến C2
+goal - Đặt mục tiêu học
+interests - Đặt chủ đề yêu thích
+tz - Đặt múi giờ
+myid - Xem ID Telegram của bạn
+deleteme - Xóa toàn bộ dữ liệu của bạn

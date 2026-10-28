@@ -1,0 +1,169 @@
+# Giáo án theo CEFR. Mỗi cấp có các tuần học nối tiếp nhau.
+# Bạn có thể sửa, thêm, bớt tuần tùy ý (bot đọc lại file khi khởi động).
+#   grammar: chủ điểm ngữ pháp của tuần
+#   theme:   chủ đề từ vựng và tình huống giao tiếp của tuần
+
+# ---------------------------------------------------------------- A1
+[[A1]]
+grammar = "Động từ to be (am/is/are)"
+theme = "Giới thiệu bản thân và người khác"
+
+[[A1]]
+grammar = "Mạo từ a/an/the, this/that/these/those"
+theme = "Đồ vật hằng ngày và ngôi nhà"
+
+[[A1]]
+grammar = "Thì hiện tại đơn (khẳng định, phủ định, nghi vấn)"
+theme = "Thói quen và lịch sinh hoạt hằng ngày"
+
+[[A1]]
+grammar = "Từ hỏi: what, where, when, who, how"
+theme = "Gia đình và bạn bè"
+
+[[A1]]
+grammar = "Can/can't chỉ khả năng"
+theme = "Sở thích và thời gian rảnh"
+
+[[A1]]
+grammar = "There is/there are và giới từ chỉ nơi chốn"
+theme = "Địa điểm trong thành phố và hỏi đường"
+
+[[A1]]
+grammar = "Thì hiện tại tiếp diễn"
+theme = "Thời tiết, quần áo và việc đang xảy ra"
+
+[[A1]]
+grammar = "Tính từ sở hữu, 's, some/any với danh từ đếm được và không đếm được"
+theme = "Đồ ăn và mua sắm"
+
+# ---------------------------------------------------------------- A2
+[[A2]]
+grammar = "Quá khứ đơn: động từ có quy tắc và bất quy tắc"
+theme = "Cuối tuần và các sự kiện đã qua"
+
+[[A2]]
+grammar = "Quá khứ đơn: phủ định, câu hỏi và các trạng từ thời gian"
+theme = "Du lịch và kỳ nghỉ"
+
+[[A2]]
+grammar = "So sánh hơn và so sánh nhất"
+theme = "Mô tả con người và địa điểm"
+
+[[A2]]
+grammar = "Be going to và hiện tại tiếp diễn chỉ tương lai"
+theme = "Kế hoạch và lời mời"
+
+[[A2]]
+grammar = "Will/won't cho dự đoán và quyết định tức thời"
+theme = "Sức khỏe và cơ thể"
+
+[[A2]]
+grammar = "Have to, must, should"
+theme = "Luật lệ, lời khuyên và công việc"
+
+[[A2]]
+grammar = "Hiện tại hoàn thành chỉ trải nghiệm (ever/never)"
+theme = "Trải nghiệm và giải trí"
+
+[[A2]]
+grammar = "Trạng từ chỉ cách thức và tần suất; much/many/a lot of"
+theme = "Ăn ngoài và gọi món"
+
+# ---------------------------------------------------------------- B1
+[[B1]]
+grammar = "Hiện tại hoàn thành và quá khứ đơn (for/since/already/yet)"
+theme = "Thay đổi trong cuộc sống và thành tựu"
+
+[[B1]]
+grammar = "Quá khứ tiếp diễn và quá khứ đơn"
+theme = "Kể chuyện và các câu chuyện đời thường"
+
+[[B1]]
+grammar = "Câu điều kiện loại 1 và mệnh đề thời gian (when/as soon as)"
+theme = "Kế hoạch, hệ quả và môi trường"
+
+[[B1]]
+grammar = "Câu điều kiện loại 2"
+theme = "Tình huống giả định và đưa ra lời khuyên"
+
+[[B1]]
+grammar = "Câu bị động (hiện tại và quá khứ)"
+theme = "Phát minh, sản phẩm và quy trình tạo ra chúng"
+
+[[B1]]
+grammar = "Used to / would chỉ thói quen trong quá khứ"
+theme = "Tuổi thơ và kỷ niệm"
+
+[[B1]]
+grammar = "Mệnh đề quan hệ (who/which/that/where)"
+theme = "Mô tả chi tiết người, vật và nơi chốn"
+
+[[B1]]
+grammar = "Câu tường thuật"
+theme = "Giao tiếp, tin tức và mạng xã hội"
+
+# ---------------------------------------------------------------- B2
+[[B2]]
+grammar = "Hiện tại hoàn thành tiếp diễn so với hiện tại hoàn thành"
+theme = "Công việc, sự nghiệp và dự án đang làm"
+
+[[B2]]
+grammar = "Quá khứ hoàn thành và các thì kể chuyện"
+theme = "Kể chuyện và tin tức sự kiện"
+
+[[B2]]
+grammar = "Câu điều kiện loại 3, I wish / If only"
+theme = "Quyết định và sự hối tiếc"
+
+[[B2]]
+grammar = "Động từ khuyết thiếu chỉ suy đoán (must/might/can't have)"
+theme = "Bí ẩn, phỏng đoán và nêu quan điểm"
+
+[[B2]]
+grammar = "Bị động nâng cao và thể sai khiến (have something done)"
+theme = "Dịch vụ và công nghệ"
+
+[[B2]]
+grammar = "Động từ tường thuật (suggest, admit, deny, insist...)"
+theme = "Xung đột và thương lượng"
+
+[[B2]]
+grammar = "Gerund và infinitive (mẫu động từ + V-ing / to V)"
+theme = "Thói quen, mục tiêu và lối sống"
+
+[[B2]]
+grammar = "Từ nối và cụm dẫn dắt diễn ngôn (however, whereas, in addition...)"
+theme = "Tranh luận và trình bày quan điểm"
+
+# ---------------------------------------------------------------- C1
+[[C1]]
+grammar = "Câu điều kiện hỗn hợp và đảo ngữ để nhấn mạnh"
+theme = "Phân tích tình huống phức tạp"
+
+[[C1]]
+grammar = "Động từ khuyết thiếu nâng cao và cách nói giảm nhẹ (hedging)"
+theme = "Giao tiếp ngoại giao và thương lượng"
+
+[[C1]]
+grammar = "Câu chẻ (It was... that, What I need is...)"
+theme = "Nhấn mạnh và thuyết phục"
+
+[[C1]]
+grammar = "Mệnh đề phân từ"
+theme = "Văn viết trang trọng và kể chuyện"
+
+[[C1]]
+grammar = "Bị động nâng cao và danh hóa (nominalisation)"
+theme = "Khoa học, xã hội và báo cáo trang trọng"
+
+[[C1]]
+grammar = "Collocation, thành ngữ và phrasal verb trong ngữ cảnh"
+theme = "Tiếng Anh nói tự nhiên, đời thường"
+
+[[C1]]
+grammar = "Giả định cách và cấu trúc trang trọng (It is essential that he be...)"
+theme = "Pháp lý, chính sách và phát biểu trang trọng"
+
+[[C1]]
+grammar = "Liên kết và mạch lạc trong lập luận dài"
+theme = "Thuyết trình và thảo luận học thuật"
